@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Tutor",
+  "description": "A high-fidelity GenAI tutor providing personalized learning across subjects with voice synthesis and image generation capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
